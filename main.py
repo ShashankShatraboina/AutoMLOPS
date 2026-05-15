@@ -1,5 +1,4 @@
-.\venv\Scripts\Activate.ps1
-streamlit run app\streamlit_app.py# ==========================================================
+# ==========================================================
 # MAIN ENTRY POINT - REGRESSION AUTOML (FINAL STABLE VERSION)
 # ==========================================================
 
