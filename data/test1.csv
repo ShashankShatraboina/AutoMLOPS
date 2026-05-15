@@ -1,0 +1,11 @@
+Age,Salary,City,Purchased
+25.0,50000.0,Hyderabad,Yes
+30.0,,Chennai,No
+,62000.0,Bangalore,Yes
+45.0,80000.0,,No
+35.0,,Delhi,
+,54000.0,Mumbai,Yes
+29.0,58000.0,,No
+41.0,,Hyderabad,Yes
+,72000.0,Chennai,
+33.0,61000.0,,No
