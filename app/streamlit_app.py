@@ -72,7 +72,7 @@ if page == "1️⃣ Dataset Upload":
         st.session_state.df = df
 
         st.success("Dataset Loaded Successfully ✅")
-        st.dataframe(df.head(), use_container_width=True)
+        st.dataframe(df.head(), width="stretch")
 
         problem_type = st.selectbox(
             "Select Problem Type",
@@ -160,17 +160,17 @@ elif page == "2️⃣ Data Preview":
 
         with tab1:
             st.subheader("Raw Dataset")
-            st.dataframe(df.head(10), use_container_width=True)
+            st.dataframe(df.head(10), width="stretch")
 
         with tab2:
             st.subheader("Processed Dataset")
             if processed_df is None:
                 st.info("Run AutoML first.")
             else:
-                st.dataframe(processed_df.head(10), use_container_width=True)
+                st.dataframe(processed_df.head(10), width="stretch")
 
         with tab3:
-            st.dataframe(df.describe(), use_container_width=True)
+            st.dataframe(df.describe(), width="stretch")
 
         with tab4:
             st.dataframe(df.isnull().sum())
@@ -453,7 +453,7 @@ elif page == "5️⃣ Visualization":
         left, center, right = st.columns([1,2,1])
 
         with center:
-            st.pyplot(fig, use_container_width=False)
+            st.pyplot(fig, width="content")
 
         # =====================================================
         # Auto Play
