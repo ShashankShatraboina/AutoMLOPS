@@ -4,11 +4,8 @@ An end-to-end AutoML + MLOps platform that automates machine learning workflows 
 
 ## 🔗 Live Demo
 
-🌐 [AutoMLOPS Demo](https://automl-system-shashank.streamlit.app/?utm_source=chatgpt.com)
+🌐 [AutoMLOPS Demo](https://automl-system-shashank.streamlit.app/)
 
-## 📂 GitHub Repository
-
-💻 [AutoMLOPS Source Code](https://github.com/ShashankShatraboina/AutoMLOPS?utm_source=chatgpt.com)
 
 ---
 
