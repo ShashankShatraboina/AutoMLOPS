@@ -55,17 +55,12 @@ An end-to-end AutoML + MLOps platform that automates machine learning workflows 
 
 ---
 
-## 📷 Application Preview
+## 📷 Run 
 
-You can add screenshots here for better presentation.
+.\venv\Scripts\Activate.ps1
+streamlit run app\streamlit_app.py
 
-Example:
 
-```md
-![App Screenshot](images/demo.png)
-```
-
----
 
 ## ⚡ Installation
 
