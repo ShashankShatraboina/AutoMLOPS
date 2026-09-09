@@ -79,31 +79,8 @@ streamlit run app.py
 
 ---
 
-## 📊 Use Cases
 
-* Automated Machine Learning Experiments
-* Rapid ML Prototyping
-* Beginner-Friendly ML Platform
-* MLOps Workflow Demonstration
-* Academic & Portfolio Projects
 
----
-
-## 🎯 Project Goals
-
-This project aims to simplify the machine learning lifecycle by integrating AutoML and MLOps concepts into a single easy-to-use platform.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
 
 
 AutoMLOPS: End-to-End AutoML + MLOps Platform
@@ -174,25 +151,29 @@ pip install -r requirements.txt
 Run the Streamlit app:
 streamlit run app/streamlit_app.py
 
-📊 Use Cases
+
+
+## 📊 Use Cases
+
 Automated Machine Learning Experiments (6-8 hours → <10 minutes)
 Rapid ML Prototyping with Leakage Prevention
 Beginner-Friendly ML Platform (30+ active users)
 MLOps Workflow Demonstration
 Academic & Portfolio Projects
 
-🎯 Project Goals
+## 🎯 Project Goals
 This project aims to simplify the machine learning lifecycle by integrating AutoML and MLOps concepts into a single easy-to-use platform, while enforcing proper ML methodology to prevent data leakage.
 
-🤝 Contributing
+
+
+## 🤝 Contributing
+
 Contributions are welcome!
 
-Fork the repository
-Create a feature branch
-Commit your changes
-Push to your branch
-Open a Pull Request
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
 
-does this satisfied resume and sop ? did u verify as im applying top 5 mscs unis usa
----
 
