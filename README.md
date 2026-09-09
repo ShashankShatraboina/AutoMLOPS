@@ -1,53 +1,5 @@
-# AutoMLOPS: End-to-End AutoML + MLOps Platform
-
-An end-to-end AutoML + MLOps platform that automates machine learning workflows from data preprocessing to model deployment. This project provides an interactive Streamlit interface for building, training, evaluating, and deploying ML models with minimal manual effort.
-
- **A production-ready platform that automates the complete ML lifecycle—from raw data ingestion to deployment-ready models—reducing manual effort by 80% through intelligent AutoML pipelines.**
-
-## 🎯 One-Line Description 
-**End-to-end AutoML + MLOps platform for automated ML pipelines, model optimization, evaluation, and deployment using Streamlit and Scikit-learn.**
 
 
-
-
-
-## 📌 Features
-
-* Automated Data Preprocessing
-* Feature Engineering
-* AutoML Model Selection
-* Hyperparameter Tuning
-* Model Evaluation & Comparison
-* Interactive Streamlit Dashboard
-* Model Saving & Deployment Ready
-* End-to-End MLOps Workflow
-* User-Friendly Interface
-
----
-
-## 🛠️ Tech Stack
-
-* **Python**
-* **Streamlit**
-* **Scikit-learn**
-* **Pandas**
-* **NumPy**
-* **Matplotlib / Seaborn**
-* **Joblib**
-* **AutoML Techniques**
-
----
-
-## 🚀 How It Works
-
-1. Upload Dataset
-2. Automatic Data Cleaning & Preprocessing
-3. Model Training with Multiple Algorithms
-4. Performance Evaluation
-5. Best Model Selection
-6. Save & Deploy the Model
-
----
 
 ## 📷 Run 
 
@@ -79,16 +31,14 @@ streamlit run app.py
 
 ---
 
-
-
-
+# AutoMLOPS: End-to-End AutoML + MLOps Platform
 
 AutoMLOPS: End-to-End AutoML + MLOps Platform
 An end-to-end AutoML + MLOps platform that automates machine learning workflows from data preprocessing to model deployment. This project provides an interactive Streamlit interface for building, training, evaluating, and deploying ML models with minimal manual effort.
 
 A production-ready platform that automates the complete ML lifecycle—from raw data ingestion to deployment-ready models—**cutting pipeline construction from 6-8 hours to under 10 minutes** through intelligent AutoML pipelines.
 
-🎯 One-Line Description
+## 🎯 One-Line Description 
 End-to-end AutoML + MLOps platform for automated ML pipelines, model optimization, evaluation, and deployment using Streamlit and Scikit-learn.
 
 
@@ -106,7 +56,10 @@ End-to-end AutoML + MLOps platform for automated ML pipelines, model optimizatio
 - **Impact:** Zero leakage by design, ensuring true generalization estimates
 - **Adoption:** Used by 30+ students and 2 research collaborators
 
-📌 Features
+
+
+
+## 📌 Features
 Automated Data Preprocessing (Leakage-Proof)
 Feature Engineering
 AutoML Model Selection
@@ -117,17 +70,22 @@ Model Saving & Deployment Ready
 End-to-End MLOps Workflow
 User-Friendly Interface
 
-🛠️ Tech Stack
-Python
-Streamlit
-Scikit-learn (Pipeline & GridSearchCV)
-Pandas
-NumPy
-Matplotlib / Seaborn
-Joblib
-AutoML Techniques
+---
 
-🚀 How It Works
+## 🛠️ Tech Stack
+
+* **Python**
+* **Streamlit**
+* **Scikit-learn**
+* **Pandas**
+* **NumPy**
+* **Matplotlib / Seaborn**
+* **Joblib**
+* **AutoML Techniques**
+
+
+
+## 🚀 How It Works
 Upload Dataset
 Automatic Data Cleaning & Preprocessing (inside sklearn Pipeline)
 Model Training with Multiple Algorithms (leakage-proof CV)
