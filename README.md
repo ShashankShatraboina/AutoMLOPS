@@ -10,12 +10,6 @@ An end-to-end AutoML + MLOps platform that automates machine learning workflows 
 
 
 
-## 🔗 Live Demo
-
-🌐 [AutoMLOPS Demo](https://automl-system-shashank.streamlit.app/)
-
-
----
 
 ## 📌 Features
 
@@ -120,8 +114,13 @@ A production-ready platform that automates the complete ML lifecycle—from raw 
 🎯 One-Line Description
 End-to-end AutoML + MLOps platform for automated ML pipelines, model optimization, evaluation, and deployment using Streamlit and Scikit-learn.
 
-🔗 Live Demo
-🌐 AutoMLOPS Demo
+
+## 🔗 Live Demo
+
+🌐 [AutoMLOPS Demo](https://automl-system-shashank.streamlit.app/)
+
+
+---
 
 🛡️ Data Leakage Prevention
 **Core Design:** All preprocessing steps wrapped inside scikit-learn Pipeline objects to prevent data leakage.
