@@ -1,36 +1,3 @@
-
-
-
-## 📷 Run 
-
-.\venv\Scripts\Activate.ps1
-streamlit run app\streamlit_app.py
-
-
-
-## ⚡ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ShashankShatraboina/AutoMLOPS.git
-cd AutoMLOPS
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
-
----
-
 # AutoMLOPS: End-to-End AutoML + MLOps Platform
 
 AutoMLOPS: End-to-End AutoML + MLOps Platform
@@ -93,22 +60,31 @@ Performance Evaluation
 Best Model Selection
 Save & Deploy the Model
 
-📷 Run
+## 📷 Run 
 .\venv\Scripts\Activate.ps1
 streamlit run app\streamlit_app.py
 
-⚡ Installation
+
+## ⚡ Installation
+
 Clone the repository:
 
+```bash
 git clone https://github.com/ShashankShatraboina/AutoMLOPS.git
 cd AutoMLOPS
+```
 
 Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
 Run the Streamlit app:
-streamlit run app/streamlit_app.py
 
+```bash
+streamlit run app.py
+```
 
 
 ## 📊 Use Cases
